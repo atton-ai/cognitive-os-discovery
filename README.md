@@ -55,7 +55,7 @@ This document exists solely to establish **discovery priority**.
 
 ---
 
-**Document Hash:** [Insert SHA-256 after finalizing]  
+**Document Hash:** c221306077863684e2fc92ff559e33fac71878eaba8246719e420cc68c1ce964  
 **License:** Creative Commons Attribution-NoDerivatives 4.0 (CC BY-ND 4.0)  
 **Repository:** https://github.com/atton-ai/cognitive-os-discovery  
 **Contact:** atton@atton.ai  
